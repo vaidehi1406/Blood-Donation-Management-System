@@ -1,11 +1,12 @@
 # Blood-Donation-Management-System
+---
 
  Java Swing application is a Blood Donation Management System with a graphical user interface for adding, deleting, searching, updating, and displaying blood donors, utilizing a MySQL database for storage
 
 ---
 
 This Java code represents a simple Blood Donation Management System using a graphical user interface (GUI) built with Java Swing. The system allows users to perform basic operations such as adding donors, deleting donors, searching for donors based on blood group, updating donor information, and displaying the list of all donors. The data is stored in a MySQL database.
----
+
 
 ---
 
@@ -54,6 +55,6 @@ Here's a breakdown of the major components and functionalities:
 *Exceptions are caught and printed to the console for debugging purposes. In a production environment, you might want to handle exceptions more gracefully, perhaps by displaying error messages to the user.
 
 Overall, this code provides a basic foundation for a Blood Donation Management System with a simple GUI and database integration
--
+
 
 ---
